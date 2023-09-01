@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 from time import sleep
 import random
-import os
 
 def crawl_delay():
     sleep(1 + random.uniform(0,1))
