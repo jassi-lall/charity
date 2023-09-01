@@ -1,4 +1,4 @@
-# charity
+# Charity alerter
 Scrape charity data from https://givingmatters.civicore.com/ and give an alert when any new organisation is added.
 
 # Crawl delay
