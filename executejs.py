@@ -1,6 +1,10 @@
 """
 Demonstrates how you can execute JavaScript code embedded in HTML responses using selenium and headless chromemium driver
 Useful for scraping content that requires js.
+
+Not needed for the project.
+
+Just a reference for future projects
 """
 
 
